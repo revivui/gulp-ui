@@ -1,0 +1,19 @@
+{
+  "name": "gulp-ui",
+  "version": "0.0.1",
+  "description": "Front-End development workflow using Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/revivui/gulp-ui.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revivui/gulp-ui/issues"
+  },
+  "homepage": "https://github.com/revivui/gulp-ui"
+}
